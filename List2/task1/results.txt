@@ -1,0 +1,53 @@
+For sorted array
+
+n: 10  type: insert  comparisons: 9  moves: 9  time: 0.036716461181640625 ms 
+n: 10  type: merge  comparisons: 15  moves: 34  time: 0.054836273193359375 ms 
+n: 10  type: quick  comparisons: 45  moves: 108  time: 0.1068115234375 ms
+
+n: 50  type: insert  comparisons: 49  moves: 49  time: 0.07963180541992188 ms 
+n: 50  type: merge  comparisons: 133  moves: 286  time: 0.36787986755371094 ms 
+n: 50  type: quick  comparisons: 1225  moves: 2548  time: 2.7451515197753906 ms
+
+n: 100  type: insert  comparisons: 99  moves: 99  time: 0.1327991485595703 ms 
+n: 100  type: merge  comparisons: 316  moves: 672  time: 0.7655620574951172 ms 
+n: 100  type: quick  comparisons: 4950  moves: 10098  time: 9.490728378295898 ms
+
+n: 500  type: insert  comparisons: 499  moves: 499  time: 0.8914470672607422 ms 
+n: 500  type: merge  comparisons: 2216  moves: 4488  time: 6.768703460693359 ms 
+n: 500  type: quick  comparisons: 124750  moves: 250498  time: 172.28412628173828 ms
+
+For inversely sorted array
+
+n: 10  type: insert  comparisons: 45  moves: 54  time: 0.08130073547363281 ms 
+n: 10  type: merge  comparisons: 19  moves: 34  time: 0.060558319091796875 ms 
+n: 10  type: quick  comparisons: 45  moves: 58  time: 0.09036064147949219 ms
+
+n: 50  type: insert  comparisons: 1225  moves: 1274  time: 1.8405914306640625 ms 
+n: 50  type: merge  comparisons: 153  moves: 286  time: 0.3883838653564453 ms 
+n: 50  type: quick  comparisons: 1225  moves: 1298  time: 2.2377967834472656 ms
+
+n: 100  type: insert  comparisons: 4950  moves: 5049  time: 7.236480712890625 ms 
+n: 100  type: merge  comparisons: 356  moves: 672  time: 1.0335445404052734 ms 
+n: 100  type: quick  comparisons: 4950  moves: 5098  time: 7.043600082397461 ms 
+
+n: 500  type: insert  comparisons: 124750  moves: 125249  time: 123.73757362365723 ms 
+n: 500  type: merge  comparisons: 2272  moves: 4488  time: 4.463911056518555 ms 
+n: 500  type: quick  comparisons: 124750  moves: 125498  time: 122.8322982788086 ms 
+
+For unsorted array
+
+n: 10  type: insert  comparisons: 27  moves: 28  time: 0.06270408630371094 ms 
+n: 10  type: merge  comparisons: 22  moves: 34  time: 0.07081031799316406 ms 
+n: 10  type: quick  comparisons: 22  moves: 40  time: 0.06175041198730469 ms
+
+n: 50  type: insert  comparisons: 751  moves: 755  time: 0.92315673828125 ms 
+n: 50  type: merge  comparisons: 223  moves: 286  time: 0.4687309265136719 ms 
+n: 50  type: quick  comparisons: 246  moves: 262  time: 0.3943443298339844 ms
+
+n: 100  type: insert  comparisons: 2808  moves: 2812  time: 4.225969314575195 ms 
+n: 100  type: merge  comparisons: 542  moves: 672  time: 1.1813640594482422 ms 
+n: 100  type: quick  comparisons: 647  moves: 710  time: 1.1241436004638672 ms
+
+n: 500  type: insert  comparisons: 67798  moves: 67804  time: 75.44207572937012 ms 
+n: 500  type: merge  comparisons: 3842  moves: 4488  time: 10.765552520751953 ms 
+n: 500  type: quick  comparisons: 5015  moves: 5312  time: 6.291389465332031 ms

@@ -1,12 +1,16 @@
 # List 1
 
-The purpose of this list was to learn, implement, and test the following data structures:
+**Purpose:**: implementing and testing the following data structures:
 - FIFO queue
 - LIFO queue
 - Singly Linked List
 - Doubly Linked List
-
-To launch any of files, run commands:
+\
+&nbsp;
+---
+\
+&nbsp;
+To launch any of programs, run commands:
 ```
 gcc filename.c
 ./a.out
