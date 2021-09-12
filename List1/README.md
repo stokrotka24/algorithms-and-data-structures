@@ -1,4 +1,4 @@
-#List 1
+# List 1
 
 The purpose of this list was to learn, implement, and test the following data structures:
 - FIFO queue
