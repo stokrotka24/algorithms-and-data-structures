@@ -2,7 +2,7 @@
 
 ## task1
 
-**Purpose:** implementing and testing sorting algorithms:
+**Purpose:** Implementing and testing sorting algorithms:
 - Insertion Sort
 - Merge Sort
 - Quick Sort
@@ -16,7 +16,7 @@
 
 ## task3
 
-**Purpose:** Implementing and testing Dual Pivot Quick Sort with Count Strategy
+**Purpose:** Implementing and testing Dual Pivot Quick Sort with Count Strategy.
 
 ## task4
 
