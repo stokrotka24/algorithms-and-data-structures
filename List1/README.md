@@ -1,6 +1,6 @@
 # List 1
 
-**Purpose:**: Implementing and testing the following data structures:
+**Purpose:** Implementing and testing the following data structures:
 - FIFO queue
 - LIFO queue
 - Singly Linked List
